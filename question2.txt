@@ -1,0 +1,10 @@
+Quais as ações (casos de uso) que essa aplicação deve ter?
+
+- Realizar a gestão de produtos (CRUD)
+- Realizar o controle de estoque (CRUD e poder ter informações individuais sobre cada produto, quanto o produto X tem no estoque e o produto Y)
+- Informações sobre vendas (Registar umanova venda, Qtd de produtos vendidos, produtos mais vendidos para poder extrair em relatório)
+- Obter relatórios de vendas (Possível com as informações do item anterior)
+- Obter relatórios de estoque (Possível com as informações do controle de estoque)
+- Pedido (Gerenciar informações da compra/pedido, atualziar status do pedido e informações de entrega)
+- Gestão de Usuários com diferentes roles (ex: operador e gestor)
+- Sistema de alertas (disparar em caso de estoque baixo ou falta de estoque)
