@@ -1,4 +1,4 @@
-Quais as ações (casos de uso) que essa aplicação deve ter?
+# Quais as ações (casos de uso) que essa aplicação deve ter?
 
 - Realizar a gestão de produtos (CRUD)
 - Realizar o controle de estoque (CRUD e poder ter informações individuais sobre cada produto, quanto o produto X tem no estoque e o produto Y)
